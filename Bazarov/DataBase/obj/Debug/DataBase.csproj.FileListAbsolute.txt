@@ -1,0 +1,11 @@
+D:\OOP\DataBase\DataBase\bin\Debug\DataBase.exe.config
+D:\OOP\DataBase\DataBase\bin\Debug\DataBase.exe
+D:\OOP\DataBase\DataBase\bin\Debug\DataBase.pdb
+D:\OOP\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+D:\OOP\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+D:\OOP\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+D:\OOP\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+D:\OOP\DataBase\DataBase\obj\Debug\DataBase.exe
+D:\OOP\DataBase\DataBase\obj\Debug\DataBase.pdb
+D:\OOP\DataBase\DataBase\obj\Debug\DataBase.AddForm.resources
+D:\OOP\DataBase\DataBase\obj\Debug\DataBase.SearchForm.resources
